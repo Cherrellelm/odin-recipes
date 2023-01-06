@@ -10,11 +10,17 @@
    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+.list-text {
+    font-size: 14pt;
+}
+
+/*margins*/
+
 .margin-sides {
     margin-left: 25px;
     margin-right: 25px;
 }
 
-.list-text {
-    font-size: 14pt;
+.body-background {
+    background-color: rgb(241, 241, 253);
 }
